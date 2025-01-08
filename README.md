@@ -2,5 +2,5 @@
 
 - ⚡ I'm Yuanyuan (Amber) Tan
 - 🌱 Currently learning: Machine Learning
-- 💼 Working on: BU Biostatistics MS
+- 🎓 Student: BU Biostatistics MS
 - 📫 Reach me: yyuantan02@gmail.com
